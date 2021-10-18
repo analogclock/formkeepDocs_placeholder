@@ -1,10 +1,3 @@
----
-layout: doc
-title: "Form Designer"
-date: 2021-10-05 00:10:00 +0800
-tags: [Feature]
-toc: true
----
 # Form Designer
 Welcome! This tool gives you fine-grained control over the look and fields of your form. Drag and drop field types into your form and customize the prompts to build your desired form. Explore the tool options below.
 

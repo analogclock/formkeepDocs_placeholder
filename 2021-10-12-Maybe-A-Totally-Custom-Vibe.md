@@ -1,11 +1,3 @@
----
-layout: doc
-title: "Maybe A Totally Custom Vibe?"
-date: 2021-10-12 00:10:00 +0800
-tags: [Help]
-toc: true
----
-
 Hey! You’ve probably clicked on this article because you already have a custom form that probably looks a bit like this...
 <img src="https://live.staticflickr.com/65535/51581358548_70a9e59a07_c.jpg" width="800" height="589" alt="Screen Shot 2021-10-12 at 08.50.49"></a>
 
