@@ -1,6 +1,7 @@
 Welcome! You are here because you want to use our Form Designer tool to make a custom form, but don't know how to find it. No worries, let's get you started.
 # What is Form Designer?
 <img src="https://live.staticflickr.com/65535/51608890099_cac0b51663_c.jpg" width="800" height="589" alt="Form Designer"></a>
+<br>
 Form Designer allows you to make custom forms. Simply drag and drop question types into the lefthand area. Check out [this article](https://github.com/furiouscollective/formkeep-docs/blob/ghoffmann-features/_docs/2021-10-05-feature-form-designer.md) for instructions on using the tool.
 
 # How to find the Form Designer
